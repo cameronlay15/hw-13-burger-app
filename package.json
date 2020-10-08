@@ -1,0 +1,28 @@
+{
+  "name": "hw-13-burger-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronlay15/hw-13-burger-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronlay15/hw-13-burger-app/issues"
+  },
+  "homepage": "https://github.com/cameronlay15/hw-13-burger-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "handlebars-helper-css": "^0.1.0",
+    "jquery": "^3.5.1",
+    "mysql": "^2.18.1",
+    "npm-start-command": "^1.0.1"
+  }
+}
