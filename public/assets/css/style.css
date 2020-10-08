@@ -1,0 +1,32 @@
+.label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  div {
+    background-color: white;
+    font-family: 'Work Sans', sans-serif;
+  }
+  
+  link {
+    color: black;
+  }
+  
+  h2 {
+    color: black;
+    font-family: 'Work Sans', sans-serif;
+  }
+  
+  h1 {
+    color: black;
+    font-family: 'Work Sans', sans-serif;
+  }
