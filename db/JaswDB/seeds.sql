@@ -1,4 +1,4 @@
-USE dstpdpsnf7ozg9fq;
+USE bj5gduujvbzrihm5;
 
 INSERT INTO burgers (burger_name, devoured) VALUES 
 ("Squirrel", 0),
